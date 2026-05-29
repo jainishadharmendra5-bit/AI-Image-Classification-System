@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn
+torch
+torchvision
+numpy
+pillow
+requests
